@@ -1,0 +1,161 @@
+{
+  "stickers" : [
+    {
+      "filename" : "001-shapes-2.sticker"
+    },
+    {
+      "filename" : "002-shapes-1.sticker"
+    },
+    {
+      "filename" : "003-war-2.sticker"
+    },
+    {
+      "filename" : "004-interface-1.sticker"
+    },
+    {
+      "filename" : "005-shapes.sticker"
+    },
+    {
+      "filename" : "006-war-1.sticker"
+    },
+    {
+      "filename" : "007-landscape-3.sticker"
+    },
+    {
+      "filename" : "008-money-1.sticker"
+    },
+    {
+      "filename" : "009-money.sticker"
+    },
+    {
+      "filename" : "010-interface.sticker"
+    },
+    {
+      "filename" : "011-landscape-2.sticker"
+    },
+    {
+      "filename" : "012-war.sticker"
+    },
+    {
+      "filename" : "013-weapons.sticker"
+    },
+    {
+      "filename" : "014-landscape-1.sticker"
+    },
+    {
+      "filename" : "015-transport-1.sticker"
+    },
+    {
+      "filename" : "016-transport.sticker"
+    },
+    {
+      "filename" : "017-arrow-2.sticker"
+    },
+    {
+      "filename" : "018-landscape.sticker"
+    },
+    {
+      "filename" : "019-church.sticker"
+    },
+    {
+      "filename" : "020-shield-3.sticker"
+    },
+    {
+      "filename" : "021-luxury-1.sticker"
+    },
+    {
+      "filename" : "022-light.sticker"
+    },
+    {
+      "filename" : "023-monuments-2.sticker"
+    },
+    {
+      "filename" : "024-shield-2.sticker"
+    },
+    {
+      "filename" : "025-fashion.sticker"
+    },
+    {
+      "filename" : "026-shield-1.sticker"
+    },
+    {
+      "filename" : "027-medieval-9.sticker"
+    },
+    {
+      "filename" : "028-witch.sticker"
+    },
+    {
+      "filename" : "029-medieval-8.sticker"
+    },
+    {
+      "filename" : "030-medieval-7.sticker"
+    },
+    {
+      "filename" : "031-luxury.sticker"
+    },
+    {
+      "filename" : "032-book.sticker"
+    },
+    {
+      "filename" : "033-arrow-1.sticker"
+    },
+    {
+      "filename" : "034-arrow.sticker"
+    },
+    {
+      "filename" : "035-orchestra-1.sticker"
+    },
+    {
+      "filename" : "036-medieval-6.sticker"
+    },
+    {
+      "filename" : "037-shield.sticker"
+    },
+    {
+      "filename" : "038-flag.sticker"
+    },
+    {
+      "filename" : "039-medieval-5.sticker"
+    },
+    {
+      "filename" : "040-monuments-1.sticker"
+    },
+    {
+      "filename" : "041-medieval-4.sticker"
+    },
+    {
+      "filename" : "042-medieval-3.sticker"
+    },
+    {
+      "filename" : "043-medieval-2.sticker"
+    },
+    {
+      "filename" : "044-medieval-1.sticker"
+    },
+    {
+      "filename" : "045-medieval.sticker"
+    },
+    {
+      "filename" : "046-monuments.sticker"
+    },
+    {
+      "filename" : "047-symbol.sticker"
+    },
+    {
+      "filename" : "048-orchestra.sticker"
+    },
+    {
+      "filename" : "049-arrows.sticker"
+    },
+    {
+      "filename" : "050-sign.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "stickers" : [
+    {
+      "filename" : "001-ice-cream-29.sticker"
+    },
+    {
+      "filename" : "002-ice-cream-28.sticker"
+    },
+    {
+      "filename" : "003-ice-cream-27.sticker"
+    },
+    {
+      "filename" : "004-ice-cream-26.sticker"
+    },
+    {
+      "filename" : "005-ice-cream-25.sticker"
+    },
+    {
+      "filename" : "006-ice-cream-24.sticker"
+    },
+    {
+      "filename" : "007-ice-cream-23.sticker"
+    },
+    {
+      "filename" : "008-ice-cream-22.sticker"
+    },
+    {
+      "filename" : "009-ice-cream-21.sticker"
+    },
+    {
+      "filename" : "010-ice-cream-20.sticker"
+    },
+    {
+      "filename" : "011-ice-cream-19.sticker"
+    },
+    {
+      "filename" : "012-ice-cream-18.sticker"
+    },
+    {
+      "filename" : "013-ice-cream-17.sticker"
+    },
+    {
+      "filename" : "014-ice-cream-16.sticker"
+    },
+    {
+      "filename" : "015-ice-cream-15.sticker"
+    },
+    {
+      "filename" : "016-ice-cream-14.sticker"
+    },
+    {
+      "filename" : "017-ice-cream-13.sticker"
+    },
+    {
+      "filename" : "018-ice-cream-12.sticker"
+    },
+    {
+      "filename" : "019-ice-cream-11.sticker"
+    },
+    {
+      "filename" : "020-ice-cream-10.sticker"
+    },
+    {
+      "filename" : "021-ice-cream-9.sticker"
+    },
+    {
+      "filename" : "022-ice-cream-8.sticker"
+    },
+    {
+      "filename" : "023-ice-cream-7.sticker"
+    },
+    {
+      "filename" : "024-ice-cream-6.sticker"
+    },
+    {
+      "filename" : "025-ice-cream-5.sticker"
+    },
+    {
+      "filename" : "026-ice-cream-4.sticker"
+    },
+    {
+      "filename" : "027-ice-cream-3.sticker"
+    },
+    {
+      "filename" : "028-ice-cream-2.sticker"
+    },
+    {
+      "filename" : "029-ice-cream-1.sticker"
+    },
+    {
+      "filename" : "030-ice-cream.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}

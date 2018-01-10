@@ -1,0 +1,161 @@
+{
+  "stickers" : [
+    {
+      "filename" : "051-agave.sticker"
+    },
+    {
+      "filename" : "051-ajolote.sticker"
+    },
+    {
+      "filename" : "051-avocado.sticker"
+    },
+    {
+      "filename" : "051-aztec-calendar.sticker"
+    },
+    {
+      "filename" : "051-balero.sticker"
+    },
+    {
+      "filename" : "051-cactus.sticker"
+    },
+    {
+      "filename" : "051-catrina.sticker"
+    },
+    {
+      "filename" : "051-cespasuchil.sticker"
+    },
+    {
+      "filename" : "051-chihuahua.sticker"
+    },
+    {
+      "filename" : "051-cigar.sticker"
+    },
+    {
+      "filename" : "051-coa-de-jima.sticker"
+    },
+    {
+      "filename" : "051-corn.sticker"
+    },
+    {
+      "filename" : "051-drink.sticker"
+    },
+    {
+      "filename" : "051-fajita.sticker"
+    },
+    {
+      "filename" : "051-guanabana.sticker"
+    },
+    {
+      "filename" : "051-guayaba.sticker"
+    },
+    {
+      "filename" : "051-guitar.sticker"
+    },
+    {
+      "filename" : "051-huehuetl.sticker"
+    },
+    {
+      "filename" : "051-huichol.sticker"
+    },
+    {
+      "filename" : "051-jalapeno.sticker"
+    },
+    {
+      "filename" : "051-jarocho.sticker"
+    },
+    {
+      "filename" : "051-lime.sticker"
+    },
+    {
+      "filename" : "051-maracas.sticker"
+    },
+    {
+      "filename" : "051-mariachi.sticker"
+    },
+    {
+      "filename" : "051-marimbol.sticker"
+    },
+    {
+      "filename" : "051-matraca.sticker"
+    },
+    {
+      "filename" : "051-mexican-beer.sticker"
+    },
+    {
+      "filename" : "051-mexican-hat.sticker"
+    },
+    {
+      "filename" : "051-mexican-man.sticker"
+    },
+    {
+      "filename" : "051-mexican-skull.sticker"
+    },
+    {
+      "filename" : "051-mexican-woman.sticker"
+    },
+    {
+      "filename" : "051-mexico.sticker"
+    },
+    {
+      "filename" : "051-mezcal.sticker"
+    },
+    {
+      "filename" : "051-molcajete.sticker"
+    },
+    {
+      "filename" : "051-mole-poblano.sticker"
+    },
+    {
+      "filename" : "051-moustache.sticker"
+    },
+    {
+      "filename" : "051-nachos-1.sticker"
+    },
+    {
+      "filename" : "051-nachos.sticker"
+    },
+    {
+      "filename" : "051-papaya.sticker"
+    },
+    {
+      "filename" : "051-piata.sticker"
+    },
+    {
+      "filename" : "051-poncho.sticker"
+    },
+    {
+      "filename" : "051-pulque.sticker"
+    },
+    {
+      "filename" : "051-tabasco.sticker"
+    },
+    {
+      "filename" : "051-taco.sticker"
+    },
+    {
+      "filename" : "051-tamales.sticker"
+    },
+    {
+      "filename" : "051-tepache.sticker"
+    },
+    {
+      "filename" : "051-tequila-1.sticker"
+    },
+    {
+      "filename" : "051-tequila.sticker"
+    },
+    {
+      "filename" : "051-wrestling.sticker"
+    },
+    {
+      "filename" : "051-zampona.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}

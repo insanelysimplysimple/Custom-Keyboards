@@ -1,0 +1,336 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6388CC4B1EB643CA00F4A409 /* StickerPackExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 6388CC4A1EB643CA00F4A409 /* StickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		6388CC4F1EB643CA00F4A409 /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 6388CC4E1EB643CA00F4A409 /* Stickers.xcstickers */; };
+		6388CC501EB643CA00F4A409 /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 6388CC4E1EB643CA00F4A409 /* Stickers.xcstickers */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		6388CC4C1EB643CA00F4A409 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6388CC401EB643CA00F4A409 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6388CC491EB643CA00F4A409;
+			remoteInfo = StickerPackExtension;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		6388CC561EB643CA00F4A409 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				6388CC4B1EB643CA00F4A409 /* StickerPackExtension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		6388CC461EB643CA00F4A409 /* CincoDeMayoParty.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CincoDeMayoParty.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6388CC4A1EB643CA00F4A409 /* StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = StickerPackExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		6388CC4E1EB643CA00F4A409 /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = StickerPackExtension/Stickers.xcstickers; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		6388CC3F1EB643CA00F4A409 = {
+			isa = PBXGroup;
+			children = (
+				6388CC4E1EB643CA00F4A409 /* Stickers.xcstickers */,
+				6388CC471EB643CA00F4A409 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6388CC471EB643CA00F4A409 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6388CC461EB643CA00F4A409 /* CincoDeMayoParty.app */,
+				6388CC4A1EB643CA00F4A409 /* StickerPackExtension.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6388CC451EB643CA00F4A409 /* CincoDeMayoParty */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6388CC571EB643CA00F4A409 /* Build configuration list for PBXNativeTarget "CincoDeMayoParty" */;
+			buildPhases = (
+				6388CC441EB643CA00F4A409 /* Resources */,
+				6388CC561EB643CA00F4A409 /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6388CC4D1EB643CA00F4A409 /* PBXTargetDependency */,
+			);
+			name = CincoDeMayoParty;
+			productName = CincoDeMayoParty;
+			productReference = 6388CC461EB643CA00F4A409 /* CincoDeMayoParty.app */;
+			productType = "com.apple.product-type.application.messages";
+		};
+		6388CC491EB643CA00F4A409 /* StickerPackExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6388CC531EB643CA00F4A409 /* Build configuration list for PBXNativeTarget "StickerPackExtension" */;
+			buildPhases = (
+				6388CC481EB643CA00F4A409 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = StickerPackExtension;
+			productName = StickerPackExtension;
+			productReference = 6388CC4A1EB643CA00F4A409 /* StickerPackExtension.appex */;
+			productType = "com.apple.product-type.app-extension.messages-sticker-pack";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6388CC401EB643CA00F4A409 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = "Jayven Nhan";
+				TargetAttributes = {
+					6388CC451EB643CA00F4A409 = {
+						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 3V8EPWEYFE;
+						ProvisioningStyle = Automatic;
+					};
+					6388CC491EB643CA00F4A409 = {
+						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 3V8EPWEYFE;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 6388CC431EB643CA00F4A409 /* Build configuration list for PBXProject "CincoDeMayoParty" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 6388CC3F1EB643CA00F4A409;
+			productRefGroup = 6388CC471EB643CA00F4A409 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6388CC451EB643CA00F4A409 /* CincoDeMayoParty */,
+				6388CC491EB643CA00F4A409 /* StickerPackExtension */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6388CC441EB643CA00F4A409 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6388CC501EB643CA00F4A409 /* Stickers.xcstickers in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6388CC481EB643CA00F4A409 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6388CC4F1EB643CA00F4A409 /* Stickers.xcstickers in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		6388CC4D1EB643CA00F4A409 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6388CC491EB643CA00F4A409 /* StickerPackExtension */;
+			targetProxy = 6388CC4C1EB643CA00F4A409 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		6388CC511EB643CA00F4A409 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		6388CC521EB643CA00F4A409 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6388CC541EB643CA00F4A409 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = 3V8EPWEYFE;
+				INFOPLIST_FILE = StickerPackExtension/Info.plist;
+				PRODUCT_BUNDLE_IDENTIFIER = com.JayvenN.CincoDeMayoParty.StickerPackExtension;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		6388CC551EB643CA00F4A409 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = 3V8EPWEYFE;
+				INFOPLIST_FILE = StickerPackExtension/Info.plist;
+				PRODUCT_BUNDLE_IDENTIFIER = com.JayvenN.CincoDeMayoParty.StickerPackExtension;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		6388CC581EB643CA00F4A409 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = 3V8EPWEYFE;
+				INFOPLIST_FILE = CincoDeMayoParty/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.JayvenN.CincoDeMayoParty;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		6388CC591EB643CA00F4A409 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = 3V8EPWEYFE;
+				INFOPLIST_FILE = CincoDeMayoParty/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.JayvenN.CincoDeMayoParty;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6388CC431EB643CA00F4A409 /* Build configuration list for PBXProject "CincoDeMayoParty" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6388CC511EB643CA00F4A409 /* Debug */,
+				6388CC521EB643CA00F4A409 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6388CC531EB643CA00F4A409 /* Build configuration list for PBXNativeTarget "StickerPackExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6388CC541EB643CA00F4A409 /* Debug */,
+				6388CC551EB643CA00F4A409 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		6388CC571EB643CA00F4A409 /* Build configuration list for PBXNativeTarget "CincoDeMayoParty" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6388CC581EB643CA00F4A409 /* Debug */,
+				6388CC591EB643CA00F4A409 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6388CC401EB643CA00F4A409 /* Project object */;
+}

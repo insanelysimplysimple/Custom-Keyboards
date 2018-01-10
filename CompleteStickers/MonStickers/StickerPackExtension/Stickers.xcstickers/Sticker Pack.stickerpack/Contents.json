@@ -1,0 +1,521 @@
+{
+  "stickers" : [
+    {
+      "filename" : "atm.sticker"
+    },
+    {
+      "filename" : "change.sticker"
+    },
+    {
+      "filename" : "check.sticker"
+    },
+    {
+      "filename" : "coin-10.sticker"
+    },
+    {
+      "filename" : "get-money.sticker"
+    },
+    {
+      "filename" : "money.sticker"
+    },
+    {
+      "filename" : "notes-1.sticker"
+    },
+    {
+      "filename" : "notes-2.sticker"
+    },
+    {
+      "filename" : "notes.sticker"
+    },
+    {
+      "filename" : "presentation-15.sticker"
+    },
+    {
+      "filename" : "price-tag-1.sticker"
+    },
+    {
+      "filename" : "price-tag-4.sticker"
+    },
+    {
+      "filename" : "price-tag-5.sticker"
+    },
+    {
+      "filename" : "price-tag.sticker"
+    },
+    {
+      "filename" : "receipt.sticker"
+    },
+    {
+      "filename" : "rewind-time.sticker"
+    },
+    {
+      "filename" : "rich.sticker"
+    },
+    {
+      "filename" : "safebox-1.sticker"
+    },
+    {
+      "filename" : "safebox-2.sticker"
+    },
+    {
+      "filename" : "safebox-3.sticker"
+    },
+    {
+      "filename" : "safebox-4.sticker"
+    },
+    {
+      "filename" : "safebox.sticker"
+    },
+    {
+      "filename" : "strongbox.sticker"
+    },
+    {
+      "filename" : "suitcase-1.sticker"
+    },
+    {
+      "filename" : "time-is-money.sticker"
+    },
+    {
+      "filename" : "atm-1.sticker"
+    },
+    {
+      "filename" : "atm-2.sticker"
+    },
+    {
+      "filename" : "bag-1.sticker"
+    },
+    {
+      "filename" : "bag-2.sticker"
+    },
+    {
+      "filename" : "bag-3.sticker"
+    },
+    {
+      "filename" : "bag-4.sticker"
+    },
+    {
+      "filename" : "bag-5.sticker"
+    },
+    {
+      "filename" : "bag-6.sticker"
+    },
+    {
+      "filename" : "bag.sticker"
+    },
+    {
+      "filename" : "bank.sticker"
+    },
+    {
+      "filename" : "barbershop.sticker"
+    },
+    {
+      "filename" : "barcode-1.sticker"
+    },
+    {
+      "filename" : "barcode.sticker"
+    },
+    {
+      "filename" : "basket-1.sticker"
+    },
+    {
+      "filename" : "basket-2.sticker"
+    },
+    {
+      "filename" : "basket.sticker"
+    },
+    {
+      "filename" : "box-1.sticker"
+    },
+    {
+      "filename" : "box-2.sticker"
+    },
+    {
+      "filename" : "box-3.sticker"
+    },
+    {
+      "filename" : "box.sticker"
+    },
+    {
+      "filename" : "briefcase-1.sticker"
+    },
+    {
+      "filename" : "briefcase.sticker"
+    },
+    {
+      "filename" : "calculator.sticker"
+    },
+    {
+      "filename" : "cart-1.sticker"
+    },
+    {
+      "filename" : "cart-2.sticker"
+    },
+    {
+      "filename" : "cart-3.sticker"
+    },
+    {
+      "filename" : "cart-4.sticker"
+    },
+    {
+      "filename" : "cart-5.sticker"
+    },
+    {
+      "filename" : "cart-6.sticker"
+    },
+    {
+      "filename" : "cart-7.sticker"
+    },
+    {
+      "filename" : "cart-8.sticker"
+    },
+    {
+      "filename" : "cart-9.sticker"
+    },
+    {
+      "filename" : "cart-10.sticker"
+    },
+    {
+      "filename" : "cart-11.sticker"
+    },
+    {
+      "filename" : "cart-12.sticker"
+    },
+    {
+      "filename" : "cart-13.sticker"
+    },
+    {
+      "filename" : "cart-14.sticker"
+    },
+    {
+      "filename" : "cart-15.sticker"
+    },
+    {
+      "filename" : "cart-16.sticker"
+    },
+    {
+      "filename" : "cart-17.sticker"
+    },
+    {
+      "filename" : "cart.sticker"
+    },
+    {
+      "filename" : "cashier-1.sticker"
+    },
+    {
+      "filename" : "cashier.sticker"
+    },
+    {
+      "filename" : "coin-1.sticker"
+    },
+    {
+      "filename" : "coin-2.sticker"
+    },
+    {
+      "filename" : "coin-3.sticker"
+    },
+    {
+      "filename" : "coin-4.sticker"
+    },
+    {
+      "filename" : "coin-5.sticker"
+    },
+    {
+      "filename" : "coin-6.sticker"
+    },
+    {
+      "filename" : "coin-7.sticker"
+    },
+    {
+      "filename" : "coin-8.sticker"
+    },
+    {
+      "filename" : "coin-9.sticker"
+    },
+    {
+      "filename" : "coin.sticker"
+    },
+    {
+      "filename" : "coins-1.sticker"
+    },
+    {
+      "filename" : "coins.sticker"
+    },
+    {
+      "filename" : "crate-1.sticker"
+    },
+    {
+      "filename" : "crate-2.sticker"
+    },
+    {
+      "filename" : "crate-3.sticker"
+    },
+    {
+      "filename" : "crate-4.sticker"
+    },
+    {
+      "filename" : "crate-5.sticker"
+    },
+    {
+      "filename" : "crate.sticker"
+    },
+    {
+      "filename" : "credit-card-1.sticker"
+    },
+    {
+      "filename" : "credit-card-2.sticker"
+    },
+    {
+      "filename" : "credit-card-3.sticker"
+    },
+    {
+      "filename" : "credit-card-4.sticker"
+    },
+    {
+      "filename" : "credit-card-5.sticker"
+    },
+    {
+      "filename" : "credit-card-6.sticker"
+    },
+    {
+      "filename" : "credit-card.sticker"
+    },
+    {
+      "filename" : "delivery-cart-1.sticker"
+    },
+    {
+      "filename" : "delivery-cart.sticker"
+    },
+    {
+      "filename" : "diagram-1.sticker"
+    },
+    {
+      "filename" : "diagram-2.sticker"
+    },
+    {
+      "filename" : "diagram-3.sticker"
+    },
+    {
+      "filename" : "diagram.sticker"
+    },
+    {
+      "filename" : "folder-1.sticker"
+    },
+    {
+      "filename" : "folder.sticker"
+    },
+    {
+      "filename" : "graph-1.sticker"
+    },
+    {
+      "filename" : "graph-2.sticker"
+    },
+    {
+      "filename" : "graph-3.sticker"
+    },
+    {
+      "filename" : "graph-4.sticker"
+    },
+    {
+      "filename" : "graph-5.sticker"
+    },
+    {
+      "filename" : "graph-6.sticker"
+    },
+    {
+      "filename" : "graph-7.sticker"
+    },
+    {
+      "filename" : "graph-8.sticker"
+    },
+    {
+      "filename" : "graph.sticker"
+    },
+    {
+      "filename" : "grocery-1.sticker"
+    },
+    {
+      "filename" : "grocery.sticker"
+    },
+    {
+      "filename" : "insert-coin.sticker"
+    },
+    {
+      "filename" : "investment.sticker"
+    },
+    {
+      "filename" : "justice-scale.sticker"
+    },
+    {
+      "filename" : "justice.sticker"
+    },
+    {
+      "filename" : "megaphone.sticker"
+    },
+    {
+      "filename" : "open.sticker"
+    },
+    {
+      "filename" : "pack.sticker"
+    },
+    {
+      "filename" : "pie-chart-1.sticker"
+    },
+    {
+      "filename" : "pie-chart-2.sticker"
+    },
+    {
+      "filename" : "pie-chart-3.sticker"
+    },
+    {
+      "filename" : "pie-chart-4.sticker"
+    },
+    {
+      "filename" : "pie-chart-5.sticker"
+    },
+    {
+      "filename" : "pie-chart-6.sticker"
+    },
+    {
+      "filename" : "pie-chart.sticker"
+    },
+    {
+      "filename" : "piggy-bank-1.sticker"
+    },
+    {
+      "filename" : "piggy-bank.sticker"
+    },
+    {
+      "filename" : "point-of-service.sticker"
+    },
+    {
+      "filename" : "poor.sticker"
+    },
+    {
+      "filename" : "presentation-1.sticker"
+    },
+    {
+      "filename" : "presentation-2.sticker"
+    },
+    {
+      "filename" : "presentation-3.sticker"
+    },
+    {
+      "filename" : "presentation-4.sticker"
+    },
+    {
+      "filename" : "presentation-5.sticker"
+    },
+    {
+      "filename" : "presentation-6.sticker"
+    },
+    {
+      "filename" : "presentation-7.sticker"
+    },
+    {
+      "filename" : "presentation-8.sticker"
+    },
+    {
+      "filename" : "presentation-9.sticker"
+    },
+    {
+      "filename" : "presentation-10.sticker"
+    },
+    {
+      "filename" : "presentation-11.sticker"
+    },
+    {
+      "filename" : "presentation-12.sticker"
+    },
+    {
+      "filename" : "presentation-13.sticker"
+    },
+    {
+      "filename" : "presentation-14.sticker"
+    },
+    {
+      "filename" : "presentation-16.sticker"
+    },
+    {
+      "filename" : "presentation-17.sticker"
+    },
+    {
+      "filename" : "presentation-18.sticker"
+    },
+    {
+      "filename" : "presentation-19.sticker"
+    },
+    {
+      "filename" : "presentation.sticker"
+    },
+    {
+      "filename" : "price-tag-2.sticker"
+    },
+    {
+      "filename" : "price-tag-3.sticker"
+    },
+    {
+      "filename" : "price-tag-6.sticker"
+    },
+    {
+      "filename" : "price-tag-7.sticker"
+    },
+    {
+      "filename" : "price-tag-8.sticker"
+    },
+    {
+      "filename" : "price-tag-9.sticker"
+    },
+    {
+      "filename" : "record.sticker"
+    },
+    {
+      "filename" : "stamp-1.sticker"
+    },
+    {
+      "filename" : "stamp.sticker"
+    },
+    {
+      "filename" : "stand.sticker"
+    },
+    {
+      "filename" : "store-1.sticker"
+    },
+    {
+      "filename" : "store-2.sticker"
+    },
+    {
+      "filename" : "store-3.sticker"
+    },
+    {
+      "filename" : "store.sticker"
+    },
+    {
+      "filename" : "suitcase-2.sticker"
+    },
+    {
+      "filename" : "suitcase.sticker"
+    },
+    {
+      "filename" : "time-passing.sticker"
+    },
+    {
+      "filename" : "wallet-1.sticker"
+    },
+    {
+      "filename" : "wallet-2.sticker"
+    },
+    {
+      "filename" : "wallet.sticker"
+    },
+    {
+      "filename" : "yen.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}

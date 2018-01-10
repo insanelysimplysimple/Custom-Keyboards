@@ -1,0 +1,797 @@
+{
+  "stickers" : [
+    {
+      "filename" : "001-world-258.sticker"
+    },
+    {
+      "filename" : "002-world-257.sticker"
+    },
+    {
+      "filename" : "003-world-256.sticker"
+    },
+    {
+      "filename" : "004-world-255.sticker"
+    },
+    {
+      "filename" : "005-world-254.sticker"
+    },
+    {
+      "filename" : "006-world-253.sticker"
+    },
+    {
+      "filename" : "007-world-252.sticker"
+    },
+    {
+      "filename" : "008-world-251.sticker"
+    },
+    {
+      "filename" : "009-world-250.sticker"
+    },
+    {
+      "filename" : "010-world-249.sticker"
+    },
+    {
+      "filename" : "011-world-248.sticker"
+    },
+    {
+      "filename" : "012-world-247.sticker"
+    },
+    {
+      "filename" : "013-world-246.sticker"
+    },
+    {
+      "filename" : "014-world-245.sticker"
+    },
+    {
+      "filename" : "015-world-244.sticker"
+    },
+    {
+      "filename" : "016-world-243.sticker"
+    },
+    {
+      "filename" : "017-world-242.sticker"
+    },
+    {
+      "filename" : "018-world-241.sticker"
+    },
+    {
+      "filename" : "019-world-240.sticker"
+    },
+    {
+      "filename" : "020-world-239.sticker"
+    },
+    {
+      "filename" : "021-world-238.sticker"
+    },
+    {
+      "filename" : "022-world-237.sticker"
+    },
+    {
+      "filename" : "023-world-236.sticker"
+    },
+    {
+      "filename" : "024-world-235.sticker"
+    },
+    {
+      "filename" : "025-world-234.sticker"
+    },
+    {
+      "filename" : "026-world-233.sticker"
+    },
+    {
+      "filename" : "027-world-232.sticker"
+    },
+    {
+      "filename" : "028-world-231.sticker"
+    },
+    {
+      "filename" : "029-world-230.sticker"
+    },
+    {
+      "filename" : "030-world-229.sticker"
+    },
+    {
+      "filename" : "031-world-228.sticker"
+    },
+    {
+      "filename" : "032-world-227.sticker"
+    },
+    {
+      "filename" : "033-world-226.sticker"
+    },
+    {
+      "filename" : "034-world-225.sticker"
+    },
+    {
+      "filename" : "035-world-224.sticker"
+    },
+    {
+      "filename" : "036-world-223.sticker"
+    },
+    {
+      "filename" : "037-world-222.sticker"
+    },
+    {
+      "filename" : "038-world-221.sticker"
+    },
+    {
+      "filename" : "039-world-220.sticker"
+    },
+    {
+      "filename" : "040-world-219.sticker"
+    },
+    {
+      "filename" : "041-world-218.sticker"
+    },
+    {
+      "filename" : "042-world-217.sticker"
+    },
+    {
+      "filename" : "043-world-216.sticker"
+    },
+    {
+      "filename" : "044-world-215.sticker"
+    },
+    {
+      "filename" : "045-world-214.sticker"
+    },
+    {
+      "filename" : "046-world-213.sticker"
+    },
+    {
+      "filename" : "047-world-212.sticker"
+    },
+    {
+      "filename" : "048-world-211.sticker"
+    },
+    {
+      "filename" : "049-world-210.sticker"
+    },
+    {
+      "filename" : "050-world-209.sticker"
+    },
+    {
+      "filename" : "051-world-208.sticker"
+    },
+    {
+      "filename" : "052-world-207.sticker"
+    },
+    {
+      "filename" : "053-world-206.sticker"
+    },
+    {
+      "filename" : "054-world-205.sticker"
+    },
+    {
+      "filename" : "055-world-204.sticker"
+    },
+    {
+      "filename" : "056-world-203.sticker"
+    },
+    {
+      "filename" : "057-world-202.sticker"
+    },
+    {
+      "filename" : "058-world-201.sticker"
+    },
+    {
+      "filename" : "059-world-200.sticker"
+    },
+    {
+      "filename" : "060-world-199.sticker"
+    },
+    {
+      "filename" : "061-world-198.sticker"
+    },
+    {
+      "filename" : "062-world-197.sticker"
+    },
+    {
+      "filename" : "063-world-196.sticker"
+    },
+    {
+      "filename" : "064-world-195.sticker"
+    },
+    {
+      "filename" : "065-world-194.sticker"
+    },
+    {
+      "filename" : "066-world-193.sticker"
+    },
+    {
+      "filename" : "067-world-192.sticker"
+    },
+    {
+      "filename" : "068-world-191.sticker"
+    },
+    {
+      "filename" : "069-world-190.sticker"
+    },
+    {
+      "filename" : "070-world-189.sticker"
+    },
+    {
+      "filename" : "071-world-188.sticker"
+    },
+    {
+      "filename" : "072-world-187.sticker"
+    },
+    {
+      "filename" : "073-world-186.sticker"
+    },
+    {
+      "filename" : "074-world-185.sticker"
+    },
+    {
+      "filename" : "075-world-184.sticker"
+    },
+    {
+      "filename" : "076-world-183.sticker"
+    },
+    {
+      "filename" : "077-world-182.sticker"
+    },
+    {
+      "filename" : "078-world-181.sticker"
+    },
+    {
+      "filename" : "079-world-180.sticker"
+    },
+    {
+      "filename" : "080-world-179.sticker"
+    },
+    {
+      "filename" : "081-world-178.sticker"
+    },
+    {
+      "filename" : "082-world-177.sticker"
+    },
+    {
+      "filename" : "083-world-176.sticker"
+    },
+    {
+      "filename" : "084-world-175.sticker"
+    },
+    {
+      "filename" : "085-world-174.sticker"
+    },
+    {
+      "filename" : "086-world-173.sticker"
+    },
+    {
+      "filename" : "087-world-172.sticker"
+    },
+    {
+      "filename" : "088-world-171.sticker"
+    },
+    {
+      "filename" : "089-world-170.sticker"
+    },
+    {
+      "filename" : "090-world-169.sticker"
+    },
+    {
+      "filename" : "091-world-168.sticker"
+    },
+    {
+      "filename" : "092-world-167.sticker"
+    },
+    {
+      "filename" : "093-world-166.sticker"
+    },
+    {
+      "filename" : "094-world-165.sticker"
+    },
+    {
+      "filename" : "095-world-164.sticker"
+    },
+    {
+      "filename" : "096-world-163.sticker"
+    },
+    {
+      "filename" : "097-world-162.sticker"
+    },
+    {
+      "filename" : "098-world-161.sticker"
+    },
+    {
+      "filename" : "099-world-160.sticker"
+    },
+    {
+      "filename" : "100-world-159.sticker"
+    },
+    {
+      "filename" : "101-world-158.sticker"
+    },
+    {
+      "filename" : "102-world-157.sticker"
+    },
+    {
+      "filename" : "103-world-156.sticker"
+    },
+    {
+      "filename" : "104-world-155.sticker"
+    },
+    {
+      "filename" : "105-world-154.sticker"
+    },
+    {
+      "filename" : "106-world-153.sticker"
+    },
+    {
+      "filename" : "107-world-152.sticker"
+    },
+    {
+      "filename" : "108-world-151.sticker"
+    },
+    {
+      "filename" : "109-world-150.sticker"
+    },
+    {
+      "filename" : "110-world-149.sticker"
+    },
+    {
+      "filename" : "111-world-148.sticker"
+    },
+    {
+      "filename" : "112-world-147.sticker"
+    },
+    {
+      "filename" : "113-world-146.sticker"
+    },
+    {
+      "filename" : "114-world-145.sticker"
+    },
+    {
+      "filename" : "115-world-144.sticker"
+    },
+    {
+      "filename" : "116-world-143.sticker"
+    },
+    {
+      "filename" : "117-world-142.sticker"
+    },
+    {
+      "filename" : "118-world-141.sticker"
+    },
+    {
+      "filename" : "119-world-140.sticker"
+    },
+    {
+      "filename" : "120-world-139.sticker"
+    },
+    {
+      "filename" : "121-world-138.sticker"
+    },
+    {
+      "filename" : "122-world-137.sticker"
+    },
+    {
+      "filename" : "123-world-136.sticker"
+    },
+    {
+      "filename" : "124-flag-1.sticker"
+    },
+    {
+      "filename" : "125-world-135.sticker"
+    },
+    {
+      "filename" : "126-world-134.sticker"
+    },
+    {
+      "filename" : "127-world-133.sticker"
+    },
+    {
+      "filename" : "128-world-132.sticker"
+    },
+    {
+      "filename" : "129-world-131.sticker"
+    },
+    {
+      "filename" : "130-world-130.sticker"
+    },
+    {
+      "filename" : "131-world-129.sticker"
+    },
+    {
+      "filename" : "132-flags.sticker"
+    },
+    {
+      "filename" : "133-world-128.sticker"
+    },
+    {
+      "filename" : "134-world-127.sticker"
+    },
+    {
+      "filename" : "135-world-126.sticker"
+    },
+    {
+      "filename" : "136-world-125.sticker"
+    },
+    {
+      "filename" : "137-world-124.sticker"
+    },
+    {
+      "filename" : "138-world-123.sticker"
+    },
+    {
+      "filename" : "139-world-122.sticker"
+    },
+    {
+      "filename" : "140-world-121.sticker"
+    },
+    {
+      "filename" : "141-world-120.sticker"
+    },
+    {
+      "filename" : "142-world-119.sticker"
+    },
+    {
+      "filename" : "143-world-118.sticker"
+    },
+    {
+      "filename" : "144-world-117.sticker"
+    },
+    {
+      "filename" : "145-world-116.sticker"
+    },
+    {
+      "filename" : "146-world-115.sticker"
+    },
+    {
+      "filename" : "147-world-114.sticker"
+    },
+    {
+      "filename" : "148-world-113.sticker"
+    },
+    {
+      "filename" : "149-world-112.sticker"
+    },
+    {
+      "filename" : "150-world-111.sticker"
+    },
+    {
+      "filename" : "151-world-110.sticker"
+    },
+    {
+      "filename" : "152-world-109.sticker"
+    },
+    {
+      "filename" : "153-world-108.sticker"
+    },
+    {
+      "filename" : "154-world-107.sticker"
+    },
+    {
+      "filename" : "155-world-106.sticker"
+    },
+    {
+      "filename" : "156-world-105.sticker"
+    },
+    {
+      "filename" : "157-world-104.sticker"
+    },
+    {
+      "filename" : "158-world-103.sticker"
+    },
+    {
+      "filename" : "159-world-102.sticker"
+    },
+    {
+      "filename" : "160-world-101.sticker"
+    },
+    {
+      "filename" : "161-world-100.sticker"
+    },
+    {
+      "filename" : "162-world-99.sticker"
+    },
+    {
+      "filename" : "163-world-98.sticker"
+    },
+    {
+      "filename" : "164-world-97.sticker"
+    },
+    {
+      "filename" : "165-world-96.sticker"
+    },
+    {
+      "filename" : "166-world-95.sticker"
+    },
+    {
+      "filename" : "167-world-94.sticker"
+    },
+    {
+      "filename" : "168-world-93.sticker"
+    },
+    {
+      "filename" : "169-world-92.sticker"
+    },
+    {
+      "filename" : "170-world-91.sticker"
+    },
+    {
+      "filename" : "171-world-90.sticker"
+    },
+    {
+      "filename" : "172-world-89.sticker"
+    },
+    {
+      "filename" : "173-world-88.sticker"
+    },
+    {
+      "filename" : "174-world-87.sticker"
+    },
+    {
+      "filename" : "175-world-86.sticker"
+    },
+    {
+      "filename" : "176-world-85.sticker"
+    },
+    {
+      "filename" : "177-world-84.sticker"
+    },
+    {
+      "filename" : "178-world-83.sticker"
+    },
+    {
+      "filename" : "179-world-82.sticker"
+    },
+    {
+      "filename" : "180-world-81.sticker"
+    },
+    {
+      "filename" : "181-world-80.sticker"
+    },
+    {
+      "filename" : "182-world-79.sticker"
+    },
+    {
+      "filename" : "183-world-78.sticker"
+    },
+    {
+      "filename" : "184-world-77.sticker"
+    },
+    {
+      "filename" : "185-world-76.sticker"
+    },
+    {
+      "filename" : "186-world-75.sticker"
+    },
+    {
+      "filename" : "187-world-74.sticker"
+    },
+    {
+      "filename" : "188-world-73.sticker"
+    },
+    {
+      "filename" : "189-world-72.sticker"
+    },
+    {
+      "filename" : "190-world-71.sticker"
+    },
+    {
+      "filename" : "191-world-70.sticker"
+    },
+    {
+      "filename" : "192-world-69.sticker"
+    },
+    {
+      "filename" : "193-world-68.sticker"
+    },
+    {
+      "filename" : "194-world-67.sticker"
+    },
+    {
+      "filename" : "195-world-66.sticker"
+    },
+    {
+      "filename" : "196-world-65.sticker"
+    },
+    {
+      "filename" : "197-world-64.sticker"
+    },
+    {
+      "filename" : "198-world-63.sticker"
+    },
+    {
+      "filename" : "199-world-62.sticker"
+    },
+    {
+      "filename" : "200-world-61.sticker"
+    },
+    {
+      "filename" : "201-world-60.sticker"
+    },
+    {
+      "filename" : "202-world-59.sticker"
+    },
+    {
+      "filename" : "203-world-58.sticker"
+    },
+    {
+      "filename" : "204-world-57.sticker"
+    },
+    {
+      "filename" : "205-world-56.sticker"
+    },
+    {
+      "filename" : "206-world-55.sticker"
+    },
+    {
+      "filename" : "207-world-54.sticker"
+    },
+    {
+      "filename" : "208-world-53.sticker"
+    },
+    {
+      "filename" : "209-world-52.sticker"
+    },
+    {
+      "filename" : "210-world-51.sticker"
+    },
+    {
+      "filename" : "211-world-50.sticker"
+    },
+    {
+      "filename" : "212-world-49.sticker"
+    },
+    {
+      "filename" : "213-world-48.sticker"
+    },
+    {
+      "filename" : "214-world-47.sticker"
+    },
+    {
+      "filename" : "215-world-46.sticker"
+    },
+    {
+      "filename" : "216-world-45.sticker"
+    },
+    {
+      "filename" : "217-world-44.sticker"
+    },
+    {
+      "filename" : "218-world-43.sticker"
+    },
+    {
+      "filename" : "219-world-42.sticker"
+    },
+    {
+      "filename" : "220-world-41.sticker"
+    },
+    {
+      "filename" : "221-world-40.sticker"
+    },
+    {
+      "filename" : "222-world-39.sticker"
+    },
+    {
+      "filename" : "223-world-38.sticker"
+    },
+    {
+      "filename" : "224-world-37.sticker"
+    },
+    {
+      "filename" : "225-world-36.sticker"
+    },
+    {
+      "filename" : "226-world-35.sticker"
+    },
+    {
+      "filename" : "227-world-34.sticker"
+    },
+    {
+      "filename" : "228-world-33.sticker"
+    },
+    {
+      "filename" : "229-world-32.sticker"
+    },
+    {
+      "filename" : "230-world-31.sticker"
+    },
+    {
+      "filename" : "231-world-30.sticker"
+    },
+    {
+      "filename" : "232-world-29.sticker"
+    },
+    {
+      "filename" : "233-world-28.sticker"
+    },
+    {
+      "filename" : "234-world-27.sticker"
+    },
+    {
+      "filename" : "235-world-26.sticker"
+    },
+    {
+      "filename" : "236-world-25.sticker"
+    },
+    {
+      "filename" : "237-world-24.sticker"
+    },
+    {
+      "filename" : "238-world-23.sticker"
+    },
+    {
+      "filename" : "239-world-22.sticker"
+    },
+    {
+      "filename" : "240-world-21.sticker"
+    },
+    {
+      "filename" : "241-world-20.sticker"
+    },
+    {
+      "filename" : "242-world-19.sticker"
+    },
+    {
+      "filename" : "243-world-18.sticker"
+    },
+    {
+      "filename" : "244-world-17.sticker"
+    },
+    {
+      "filename" : "245-world-16.sticker"
+    },
+    {
+      "filename" : "246-flag.sticker"
+    },
+    {
+      "filename" : "247-world-15.sticker"
+    },
+    {
+      "filename" : "248-world-14.sticker"
+    },
+    {
+      "filename" : "249-world-13.sticker"
+    },
+    {
+      "filename" : "250-world-12.sticker"
+    },
+    {
+      "filename" : "251-world-11.sticker"
+    },
+    {
+      "filename" : "252-world-10.sticker"
+    },
+    {
+      "filename" : "253-world-9.sticker"
+    },
+    {
+      "filename" : "254-world-8.sticker"
+    },
+    {
+      "filename" : "255-world-7.sticker"
+    },
+    {
+      "filename" : "256-world-6.sticker"
+    },
+    {
+      "filename" : "257-world-5.sticker"
+    },
+    {
+      "filename" : "258-world-4.sticker"
+    },
+    {
+      "filename" : "259-world-3.sticker"
+    },
+    {
+      "filename" : "260-world-2.sticker"
+    },
+    {
+      "filename" : "261-world-1.sticker"
+    },
+    {
+      "filename" : "262-world.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}

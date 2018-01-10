@@ -1,0 +1,101 @@
+{
+  "stickers" : [
+    {
+      "filename" : "001-guitar.sticker"
+    },
+    {
+      "filename" : "002-balloons.sticker"
+    },
+    {
+      "filename" : "003-cactus.sticker"
+    },
+    {
+      "filename" : "004-lime.sticker"
+    },
+    {
+      "filename" : "005-mexican-hat.sticker"
+    },
+    {
+      "filename" : "006-tequila-1.sticker"
+    },
+    {
+      "filename" : "007-pinata.sticker"
+    },
+    {
+      "filename" : "008-dress-1.sticker"
+    },
+    {
+      "filename" : "009-skull.sticker"
+    },
+    {
+      "filename" : "010-taco.sticker"
+    },
+    {
+      "filename" : "011-tabasco.sticker"
+    },
+    {
+      "filename" : "012-sun.sticker"
+    },
+    {
+      "filename" : "013-margarita.sticker"
+    },
+    {
+      "filename" : "014-nachos.sticker"
+    },
+    {
+      "filename" : "015-dress.sticker"
+    },
+    {
+      "filename" : "016-maracas.sticker"
+    },
+    {
+      "filename" : "017-corn.sticker"
+    },
+    {
+      "filename" : "018-sword.sticker"
+    },
+    {
+      "filename" : "019-cespasuchil.sticker"
+    },
+    {
+      "filename" : "020-jalapeno.sticker"
+    },
+    {
+      "filename" : "021-avocado.sticker"
+    },
+    {
+      "filename" : "022-fireworks.sticker"
+    },
+    {
+      "filename" : "023-moustache.sticker"
+    },
+    {
+      "filename" : "024-tequila.sticker"
+    },
+    {
+      "filename" : "025-pyramid.sticker"
+    },
+    {
+      "filename" : "026-mexico.sticker"
+    },
+    {
+      "filename" : "027-zampona.sticker"
+    },
+    {
+      "filename" : "028-burrito.sticker"
+    },
+    {
+      "filename" : "029-poncho.sticker"
+    },
+    {
+      "filename" : "030-nachos-1.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}

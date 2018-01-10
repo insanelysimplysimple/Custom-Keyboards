@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12120" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="InstructionPage2" customModule="Frenchie_Clone" customModuleProvider="target"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="InstructionPage2" customModule="Frenchie_Clone" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="How To Use" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="ETW-cp-dbM">
+                    <rect key="frame" x="46" y="90" width="283" height="39"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="39" id="VhP-Vy-UTV"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="32"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="equalSpacing" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="vo5-I5-KM7">
+                    <rect key="frame" x="20" y="161" width="335" height="190"/>
+                    <subviews>
+                        <stackView opaque="NO" contentMode="scaleToFill" spacing="16" translatesAutoresizingMaskIntoConstraints="NO" id="DFc-b1-knP">
+                            <rect key="frame" x="0.0" y="0.0" width="335" height="50"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="1" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fsL-Vc-gBa" customClass="LabelInstructionNumber" customModule="Frenchie_Clone" customModuleProvider="target">
+                                    <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
+                                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="50" id="44U-OR-Awx"/>
+                                        <constraint firstAttribute="height" constant="50" id="6g6-h6-5hz"/>
+                                    </constraints>
+                                    <fontDescription key="fontDescription" type="system" weight="medium" pointSize="17"/>
+                                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Open Messages" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="VHV-9N-Xvk">
+                                    <rect key="frame" x="66" y="0.0" width="269" height="50"/>
+                                    <fontDescription key="fontDescription" type="system" weight="medium" pointSize="17"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                        </stackView>
+                        <stackView opaque="NO" contentMode="scaleToFill" spacing="16" translatesAutoresizingMaskIntoConstraints="NO" id="2oJ-b7-ViB">
+                            <rect key="frame" x="0.0" y="70" width="335" height="50"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="2" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kXb-Z4-N8v" customClass="LabelInstructionNumber" customModule="Frenchie_Clone" customModuleProvider="target">
+                                    <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
+                                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="50" id="YZe-sb-R6A"/>
+                                        <constraint firstAttribute="width" constant="50" id="h9n-l8-yEI"/>
+                                    </constraints>
+                                    <fontDescription key="fontDescription" type="system" weight="medium" pointSize="17"/>
+                                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="In the Keyboard, &quot;tap and hold&quot; the globe and choose APP NAME" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="aip-fG-qgm">
+                                    <rect key="frame" x="66" y="0.0" width="269" height="50"/>
+                                    <fontDescription key="fontDescription" type="system" weight="medium" pointSize="17"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                        </stackView>
+                        <stackView opaque="NO" contentMode="scaleToFill" spacing="16" translatesAutoresizingMaskIntoConstraints="NO" id="WlU-dk-bk8">
+                            <rect key="frame" x="0.0" y="140" width="335" height="50"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="3" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5c7-CR-WjF" customClass="LabelInstructionNumber" customModule="Frenchie_Clone" customModuleProvider="target">
+                                    <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
+                                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="50" id="7Rf-Dn-2ay"/>
+                                        <constraint firstAttribute="width" constant="50" id="JyF-Ab-ZYh"/>
+                                    </constraints>
+                                    <fontDescription key="fontDescription" type="system" weight="medium" pointSize="17"/>
+                                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Select the Emoji, paste it into the message box and send!" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="rRJ-bw-1dE">
+                                    <rect key="frame" x="66" y="0.0" width="269" height="50"/>
+                                    <fontDescription key="fontDescription" type="system" weight="medium" pointSize="17"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                        </stackView>
+                    </subviews>
+                </stackView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="keyup" translatesAutoresizingMaskIntoConstraints="NO" id="pfV-JK-bCa">
+                    <rect key="frame" x="16" y="383" width="343" height="228.5"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="pfV-JK-bCa" secondAttribute="height" multiplier="3:2" id="IaC-e9-3jI"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="pfV-JK-bCa" secondAttribute="trailing" constant="16" id="0tS-dU-Ued"/>
+                <constraint firstItem="pfV-JK-bCa" firstAttribute="top" secondItem="vo5-I5-KM7" secondAttribute="bottom" constant="32" id="Ccp-5R-P3h"/>
+                <constraint firstItem="ETW-cp-dbM" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="90" id="KVb-9E-Eg8"/>
+                <constraint firstItem="vo5-I5-KM7" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="20" id="OvP-yB-DMm"/>
+                <constraint firstAttribute="trailing" secondItem="ETW-cp-dbM" secondAttribute="trailing" constant="46" id="Tmb-Aa-3ku"/>
+                <constraint firstItem="pfV-JK-bCa" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="16" id="XZC-6M-CJU"/>
+                <constraint firstItem="ETW-cp-dbM" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="dEo-N0-mL9"/>
+                <constraint firstItem="vo5-I5-KM7" firstAttribute="top" secondItem="ETW-cp-dbM" secondAttribute="bottom" constant="32" id="qjA-ma-Bq4"/>
+                <constraint firstItem="ETW-cp-dbM" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="46" id="uEB-ZQ-Atv"/>
+                <constraint firstAttribute="trailing" secondItem="vo5-I5-KM7" secondAttribute="trailing" constant="20" id="ufi-DG-KBQ"/>
+            </constraints>
+        </view>
+    </objects>
+    <resources>
+        <image name="keyup" width="621" height="393"/>
+    </resources>
+</document>

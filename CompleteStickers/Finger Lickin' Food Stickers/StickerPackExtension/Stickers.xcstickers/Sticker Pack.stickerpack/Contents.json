@@ -1,0 +1,374 @@
+{
+  "stickers" : [
+    {
+      "filename" : "000-finger-lickin.sticker"
+    },
+    {
+      "filename" : "001-lollipop-2.sticker"
+    },
+    {
+      "filename" : "002-candy-cane-3.sticker"
+    },
+    {
+      "filename" : "003-candy-cane-2.sticker"
+    },
+    {
+      "filename" : "004-cotton-candy-1.sticker"
+    },
+    {
+      "filename" : "005-lollipop-1.sticker"
+    },
+    {
+      "filename" : "006-candy-11.sticker"
+    },
+    {
+      "filename" : "007-toffee.sticker"
+    },
+    {
+      "filename" : "008-candy-cane-1.sticker"
+    },
+    {
+      "filename" : "009-candy-cane.sticker"
+    },
+    {
+      "filename" : "010-candy-10.sticker"
+    },
+    {
+      "filename" : "011-lollipop.sticker"
+    },
+    {
+      "filename" : "012-candy-9.sticker"
+    },
+    {
+      "filename" : "013-candy-8.sticker"
+    },
+    {
+      "filename" : "014-candy-7.sticker"
+    },
+    {
+      "filename" : "015-candy-6.sticker"
+    },
+    {
+      "filename" : "016-candy-5.sticker"
+    },
+    {
+      "filename" : "017-candy-4.sticker"
+    },
+    {
+      "filename" : "018-sweet.sticker"
+    },
+    {
+      "filename" : "019-candy-3.sticker"
+    },
+    {
+      "filename" : "020-candy-2.sticker"
+    },
+    {
+      "filename" : "021-candy-1.sticker"
+    },
+    {
+      "filename" : "022-cupcake.sticker"
+    },
+    {
+      "filename" : "023-cotton-candy.sticker"
+    },
+    {
+      "filename" : "024-jelly-beans.sticker"
+    },
+    {
+      "filename" : "025-candy.sticker"
+    },
+    {
+      "filename" : "026-bonbon.sticker"
+    },
+    {
+      "filename" : "027-chocolate-2.sticker"
+    },
+    {
+      "filename" : "028-chocolate-1.sticker"
+    },
+    {
+      "filename" : "029-chocolate.sticker"
+    },
+    {
+      "filename" : "030-ice-cream-8.sticker"
+    },
+    {
+      "filename" : "031-ice-cream-7.sticker"
+    },
+    {
+      "filename" : "032-ice-cream-6.sticker"
+    },
+    {
+      "filename" : "033-ice-cream-4.sticker"
+    },
+    {
+      "filename" : "034-ice-cream-3.sticker"
+    },
+    {
+      "filename" : "035-ice-cream-5.sticker"
+    },
+    {
+      "filename" : "036-ice-cream-2.sticker"
+    },
+    {
+      "filename" : "037-ice-cream-1.sticker"
+    },
+    {
+      "filename" : "038-ice-cream.sticker"
+    },
+    {
+      "filename" : "039-doughnut.sticker"
+    },
+    {
+      "filename" : "040-donut-15.sticker"
+    },
+    {
+      "filename" : "041-donut-14.sticker"
+    },
+    {
+      "filename" : "042-donut-13.sticker"
+    },
+    {
+      "filename" : "043-donut-12.sticker"
+    },
+    {
+      "filename" : "044-donut-11.sticker"
+    },
+    {
+      "filename" : "045-donut-10.sticker"
+    },
+    {
+      "filename" : "046-donut-9.sticker"
+    },
+    {
+      "filename" : "047-donut-8.sticker"
+    },
+    {
+      "filename" : "048-donut-7.sticker"
+    },
+    {
+      "filename" : "049-donut-6.sticker"
+    },
+    {
+      "filename" : "050-donuts.sticker"
+    },
+    {
+      "filename" : "051-donut-5.sticker"
+    },
+    {
+      "filename" : "052-donut-4.sticker"
+    },
+    {
+      "filename" : "053-donut-3.sticker"
+    },
+    {
+      "filename" : "054-donut-2.sticker"
+    },
+    {
+      "filename" : "055-donut-1.sticker"
+    },
+    {
+      "filename" : "056-donut.sticker"
+    },
+    {
+      "filename" : "057-coffee-2.sticker"
+    },
+    {
+      "filename" : "058-coffee-1.sticker"
+    },
+    {
+      "filename" : "059-coffee.sticker"
+    },
+    {
+      "filename" : "060-coffee-cup.sticker"
+    },
+    {
+      "filename" : "061-hot-drink.sticker"
+    },
+    {
+      "filename" : "062-soda-2.sticker"
+    },
+    {
+      "filename" : "063-soda-1.sticker"
+    },
+    {
+      "filename" : "064-soft-drink-3.sticker"
+    },
+    {
+      "filename" : "065-soda.sticker"
+    },
+    {
+      "filename" : "066-soft-drink-2.sticker"
+    },
+    {
+      "filename" : "067-soft-drink.sticker"
+    },
+    {
+      "filename" : "068-soft-drink-1.sticker"
+    },
+    {
+      "filename" : "069-chicken-1.sticker"
+    },
+    {
+      "filename" : "070-chicken.sticker"
+    },
+    {
+      "filename" : "071-chicken-leg-2.sticker"
+    },
+    {
+      "filename" : "072-turkey.sticker"
+    },
+    {
+      "filename" : "073-roast-chicken.sticker"
+    },
+    {
+      "filename" : "074-chicken-leg-1.sticker"
+    },
+    {
+      "filename" : "075-chicken-leg.sticker"
+    },
+    {
+      "filename" : "076-french-fries-5.sticker"
+    },
+    {
+      "filename" : "077-fries-1.sticker"
+    },
+    {
+      "filename" : "078-fries.sticker"
+    },
+    {
+      "filename" : "079-french-fries-4.sticker"
+    },
+    {
+      "filename" : "080-french-fries-3.sticker"
+    },
+    {
+      "filename" : "081-french-fries-2.sticker"
+    },
+    {
+      "filename" : "082-french-fries-1.sticker"
+    },
+    {
+      "filename" : "083-french-fries.sticker"
+    },
+    {
+      "filename" : "084-fried-potatoes.sticker"
+    },
+    {
+      "filename" : "085-cheese.sticker"
+    },
+    {
+      "filename" : "086-pizza-14.sticker"
+    },
+    {
+      "filename" : "087-pizza-13.sticker"
+    },
+    {
+      "filename" : "088-pizza-12.sticker"
+    },
+    {
+      "filename" : "089-pizza-10.sticker"
+    },
+    {
+      "filename" : "090-pizza-11.sticker"
+    },
+    {
+      "filename" : "091-pizza-9.sticker"
+    },
+    {
+      "filename" : "092-pizza-8.sticker"
+    },
+    {
+      "filename" : "093-pizza-7.sticker"
+    },
+    {
+      "filename" : "094-pizza-6.sticker"
+    },
+    {
+      "filename" : "095-pizza-5.sticker"
+    },
+    {
+      "filename" : "096-pizza-4.sticker"
+    },
+    {
+      "filename" : "097-pizza-3.sticker"
+    },
+    {
+      "filename" : "098-pizza-2.sticker"
+    },
+    {
+      "filename" : "099-pizza-1.sticker"
+    },
+    {
+      "filename" : "100-pizza.sticker"
+    },
+    {
+      "filename" : "101-hamburger-7.sticker"
+    },
+    {
+      "filename" : "102-hamburger-6.sticker"
+    },
+    {
+      "filename" : "103-burger-7.sticker"
+    },
+    {
+      "filename" : "104-burger-6.sticker"
+    },
+    {
+      "filename" : "105-burger-5.sticker"
+    },
+    {
+      "filename" : "106-cheese-burger.sticker"
+    },
+    {
+      "filename" : "107-burger-4.sticker"
+    },
+    {
+      "filename" : "108-burger-3.sticker"
+    },
+    {
+      "filename" : "109-hamburger-5.sticker"
+    },
+    {
+      "filename" : "110-burger-1.sticker"
+    },
+    {
+      "filename" : "111-hamburger-4.sticker"
+    },
+    {
+      "filename" : "112-burger.sticker"
+    },
+    {
+      "filename" : "113-hamburger-3.sticker"
+    },
+    {
+      "filename" : "114-hamburger-2.sticker"
+    },
+    {
+      "filename" : "115-junk-food.sticker"
+    },
+    {
+      "filename" : "116-fast-food-1.sticker"
+    },
+    {
+      "filename" : "117-hamburger-1.sticker"
+    },
+    {
+      "filename" : "118-fast-food.sticker"
+    },
+    {
+      "filename" : "119-hamburger.sticker"
+    },
+    {
+      "filename" : "120-burger-2.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}

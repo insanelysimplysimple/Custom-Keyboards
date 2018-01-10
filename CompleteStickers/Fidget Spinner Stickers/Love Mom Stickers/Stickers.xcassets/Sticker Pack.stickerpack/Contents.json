@@ -1,0 +1,101 @@
+{
+  "stickers" : [
+    {
+      "filename" : "fidget2.sticker"
+    },
+    {
+      "filename" : "fidget1.sticker"
+    },
+    {
+      "filename" : "fidget3.sticker"
+    },
+    {
+      "filename" : "fidget4.sticker"
+    },
+    {
+      "filename" : "fidget5.sticker"
+    },
+    {
+      "filename" : "fidget6.sticker"
+    },
+    {
+      "filename" : "sosharp1.sticker"
+    },
+    {
+      "filename" : "sosharp2.sticker"
+    },
+    {
+      "filename" : "sosharp3.sticker"
+    },
+    {
+      "filename" : "sosharp4.sticker"
+    },
+    {
+      "filename" : "sosharp5.sticker"
+    },
+    {
+      "filename" : "sosharp6.sticker"
+    },
+    {
+      "filename" : "balance1.sticker"
+    },
+    {
+      "filename" : "balance2.sticker"
+    },
+    {
+      "filename" : "balance3.sticker"
+    },
+    {
+      "filename" : "balance4.sticker"
+    },
+    {
+      "filename" : "balance5.sticker"
+    },
+    {
+      "filename" : "balance6.sticker"
+    },
+    {
+      "filename" : "triplet1.sticker"
+    },
+    {
+      "filename" : "triplet2.sticker"
+    },
+    {
+      "filename" : "triplet3.sticker"
+    },
+    {
+      "filename" : "triplet4.sticker"
+    },
+    {
+      "filename" : "triplet5.sticker"
+    },
+    {
+      "filename" : "triplet6.sticker"
+    },
+    {
+      "filename" : "simple1.sticker"
+    },
+    {
+      "filename" : "simple2.sticker"
+    },
+    {
+      "filename" : "simple3.sticker"
+    },
+    {
+      "filename" : "simple4.sticker"
+    },
+    {
+      "filename" : "simple5.sticker"
+    },
+    {
+      "filename" : "simple6.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}

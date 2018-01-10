@@ -1,0 +1,826 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3F7F7BA03DD4FD274A52309B /* Pods_Keyboard.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C59D6323BD2E7F7763B5409 /* Pods_Keyboard.framework */; };
+		63050D361EBAF29300EF0E3D /* KeyboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63050D351EBAF29300EF0E3D /* KeyboardViewController.swift */; };
+		63050D3A1EBAF29300EF0E3D /* Keyboard.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 63050D331EBAF29300EF0E3D /* Keyboard.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		63050D401EBAF3EB00EF0E3D /* KeyboardView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 63050D3F1EBAF3EB00EF0E3D /* KeyboardView.xib */; };
+		63050D421EBB00A400EF0E3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 639DDDE41EB7967C009ECE1D /* Assets.xcassets */; };
+		63050D451EBB07E900EF0E3D /* EmojiCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63050D431EBB07E900EF0E3D /* EmojiCollectionViewCell.swift */; };
+		63050D461EBB07E900EF0E3D /* EmojiCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 63050D441EBB07E900EF0E3D /* EmojiCollectionViewCell.xib */; };
+		63050D511EBB0D1700EF0E3D /* Emoji.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63050D501EBB0D1700EF0E3D /* Emoji.swift */; };
+		63050D5E1EBB387300EF0E3D /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63050D5C1EBB387300EF0E3D /* HeaderView.swift */; };
+		63050D5F1EBB387300EF0E3D /* HeaderView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 63050D5D1EBB387300EF0E3D /* HeaderView.xib */; };
+		630E477E1EBD6EAE00C82983 /* InstructionPage1.xib in Resources */ = {isa = PBXBuildFile; fileRef = 630E477D1EBD6EAE00C82983 /* InstructionPage1.xib */; };
+		630E47801EBD6EBF00C82983 /* InstructionPage2.xib in Resources */ = {isa = PBXBuildFile; fileRef = 630E477F1EBD6EBF00C82983 /* InstructionPage2.xib */; };
+		630E47841EBD7E7B00C82983 /* InstructionPage1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 630E47831EBD7E7B00C82983 /* InstructionPage1.swift */; };
+		630E47861EBD7E8500C82983 /* InstructionPage2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 630E47851EBD7E8500C82983 /* InstructionPage2.swift */; };
+		630E47AA1EBDA97700C82983 /* Stickers.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 630E47A91EBDA97700C82983 /* Stickers.xcassets */; };
+		630E47AE1EBDA97700C82983 /* Love Mom Stickers.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 630E47A71EBDA97700C82983 /* Love Mom Stickers.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		630E47E91EBDF73A00C82983 /* EmojiCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63050D431EBB07E900EF0E3D /* EmojiCollectionViewCell.swift */; };
+		630E47EA1EBDF79200C82983 /* Emoji.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63050D501EBB0D1700EF0E3D /* Emoji.swift */; };
+		630E47EB1EBDF83800C82983 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639DDDF31EB79AEE009ECE1D /* Constants.swift */; };
+		630E47EC1EBDF92400C82983 /* EmojiCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 63050D441EBB07E900EF0E3D /* EmojiCollectionViewCell.xib */; };
+		630E47EE1EBF114500C82983 /* InstructionPageIMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 630E47ED1EBF114500C82983 /* InstructionPageIMessage.swift */; };
+		630E47F01EBF114B00C82983 /* InstructionPageIMessage.xib in Resources */ = {isa = PBXBuildFile; fileRef = 630E47EF1EBF114B00C82983 /* InstructionPageIMessage.xib */; };
+		630E47F21EBF183D00C82983 /* InstructionIMessageVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 630E47F11EBF183D00C82983 /* InstructionIMessageVC.swift */; };
+		63911D041EBB3B2F000263CE /* HorizontalFloatingHeaderLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63911D031EBB3B2F000263CE /* HorizontalFloatingHeaderLayout.swift */; };
+		63911D071EBB3FFA000263CE /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63911D061EBB3FFA000263CE /* Extensions.swift */; };
+		639DDDDE1EB7967C009ECE1D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639DDDDD1EB7967C009ECE1D /* AppDelegate.swift */; };
+		639DDDE31EB7967C009ECE1D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 639DDDE11EB7967C009ECE1D /* Main.storyboard */; };
+		639DDDE51EB7967C009ECE1D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 639DDDE41EB7967C009ECE1D /* Assets.xcassets */; };
+		639DDDE81EB7967C009ECE1D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 639DDDE61EB7967C009ECE1D /* LaunchScreen.storyboard */; };
+		639DDDF41EB79AEE009ECE1D /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639DDDF31EB79AEE009ECE1D /* Constants.swift */; };
+		639DDDF61EB79C26009ECE1D /* InstructionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639DDDF51EB79C26009ECE1D /* InstructionVC.swift */; };
+		639DDDF81EB86079009ECE1D /* LabelInstructionNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639DDDF71EB86079009ECE1D /* LabelInstructionNumber.swift */; };
+		639DDDFA1EB8638F009ECE1D /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639DDDF91EB8638F009ECE1D /* HomeVC.swift */; };
+		99934836723F106B0F4D2F41 /* Pods_Frenchie_Clone.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D22935C8D3C5BC70112EEDFF /* Pods_Frenchie_Clone.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		63050D381EBAF29300EF0E3D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 639DDDD21EB7967C009ECE1D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 63050D321EBAF29300EF0E3D;
+			remoteInfo = Keyboard;
+		};
+		630E47AC1EBDA97700C82983 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 639DDDD21EB7967C009ECE1D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 630E47A61EBDA97700C82983;
+			remoteInfo = "Love Mom Stickers";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		63050D3E1EBAF29300EF0E3D /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				630E47AE1EBDA97700C82983 /* Love Mom Stickers.appex in Embed App Extensions */,
+				63050D3A1EBAF29300EF0E3D /* Keyboard.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		1D6AB9FE0E0CA25EDCF31FF9 /* Pods-Frenchie Clone.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Frenchie Clone.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Frenchie Clone/Pods-Frenchie Clone.debug.xcconfig"; sourceTree = "<group>"; };
+		29CE7E463AC49160292F9862 /* Pods-Keyboard.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Keyboard.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Keyboard/Pods-Keyboard.debug.xcconfig"; sourceTree = "<group>"; };
+		3702666DF50BF8ED4588C50B /* Pods-Frenchie Clone.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Frenchie Clone.release.xcconfig"; path = "Pods/Target Support Files/Pods-Frenchie Clone/Pods-Frenchie Clone.release.xcconfig"; sourceTree = "<group>"; };
+		63050D331EBAF29300EF0E3D /* Keyboard.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = Keyboard.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		63050D351EBAF29300EF0E3D /* KeyboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardViewController.swift; sourceTree = "<group>"; };
+		63050D371EBAF29300EF0E3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		63050D3F1EBAF3EB00EF0E3D /* KeyboardView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = KeyboardView.xib; sourceTree = "<group>"; };
+		63050D431EBB07E900EF0E3D /* EmojiCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmojiCollectionViewCell.swift; sourceTree = "<group>"; };
+		63050D441EBB07E900EF0E3D /* EmojiCollectionViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = EmojiCollectionViewCell.xib; sourceTree = "<group>"; };
+		63050D501EBB0D1700EF0E3D /* Emoji.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Emoji.swift; sourceTree = "<group>"; };
+		63050D5C1EBB387300EF0E3D /* HeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		63050D5D1EBB387300EF0E3D /* HeaderView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HeaderView.xib; sourceTree = "<group>"; };
+		630E477D1EBD6EAE00C82983 /* InstructionPage1.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InstructionPage1.xib; sourceTree = "<group>"; };
+		630E477F1EBD6EBF00C82983 /* InstructionPage2.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InstructionPage2.xib; sourceTree = "<group>"; };
+		630E47831EBD7E7B00C82983 /* InstructionPage1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InstructionPage1.swift; sourceTree = "<group>"; };
+		630E47851EBD7E8500C82983 /* InstructionPage2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InstructionPage2.swift; sourceTree = "<group>"; };
+		630E47A71EBDA97700C82983 /* Love Mom Stickers.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Love Mom Stickers.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		630E47A91EBDA97700C82983 /* Stickers.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Stickers.xcassets; sourceTree = "<group>"; };
+		630E47AB1EBDA97700C82983 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		630E47E81EBDE09E00C82983 /* Keyboard.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Keyboard.entitlements; sourceTree = "<group>"; };
+		630E47ED1EBF114500C82983 /* InstructionPageIMessage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InstructionPageIMessage.swift; sourceTree = "<group>"; };
+		630E47EF1EBF114B00C82983 /* InstructionPageIMessage.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InstructionPageIMessage.xib; sourceTree = "<group>"; };
+		630E47F11EBF183D00C82983 /* InstructionIMessageVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InstructionIMessageVC.swift; sourceTree = "<group>"; };
+		63911D031EBB3B2F000263CE /* HorizontalFloatingHeaderLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HorizontalFloatingHeaderLayout.swift; sourceTree = "<group>"; };
+		63911D061EBB3FFA000263CE /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		639DDDDA1EB7967C009ECE1D /* Frenchie Clone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Frenchie Clone.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		639DDDDD1EB7967C009ECE1D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		639DDDE21EB7967C009ECE1D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		639DDDE41EB7967C009ECE1D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		639DDDE71EB7967C009ECE1D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		639DDDE91EB7967C009ECE1D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		639DDDF31EB79AEE009ECE1D /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		639DDDF51EB79C26009ECE1D /* InstructionVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InstructionVC.swift; sourceTree = "<group>"; };
+		639DDDF71EB86079009ECE1D /* LabelInstructionNumber.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LabelInstructionNumber.swift; sourceTree = "<group>"; };
+		639DDDF91EB8638F009ECE1D /* HomeVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
+		718D9E51B6FF0B85922F4929 /* Pods-Keyboard.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Keyboard.release.xcconfig"; path = "Pods/Target Support Files/Pods-Keyboard/Pods-Keyboard.release.xcconfig"; sourceTree = "<group>"; };
+		7C59D6323BD2E7F7763B5409 /* Pods_Keyboard.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Keyboard.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D22935C8D3C5BC70112EEDFF /* Pods_Frenchie_Clone.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Frenchie_Clone.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		63050D301EBAF29300EF0E3D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F7F7BA03DD4FD274A52309B /* Pods_Keyboard.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		639DDDD71EB7967C009ECE1D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				99934836723F106B0F4D2F41 /* Pods_Frenchie_Clone.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A050DF87F75302CB1E62EC3F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		63050D341EBAF29300EF0E3D /* Keyboard */ = {
+			isa = PBXGroup;
+			children = (
+				630E47E81EBDE09E00C82983 /* Keyboard.entitlements */,
+				63050D4F1EBB0D0D00EF0E3D /* Model */,
+				63911D051EBB3B43000263CE /* View */,
+				63050D4E1EBB096700EF0E3D /* Utilities */,
+				63050D351EBAF29300EF0E3D /* KeyboardViewController.swift */,
+				63050D3F1EBAF3EB00EF0E3D /* KeyboardView.xib */,
+				63050D431EBB07E900EF0E3D /* EmojiCollectionViewCell.swift */,
+				63050D441EBB07E900EF0E3D /* EmojiCollectionViewCell.xib */,
+				63050D371EBAF29300EF0E3D /* Info.plist */,
+			);
+			path = Keyboard;
+			sourceTree = "<group>";
+		};
+		63050D4E1EBB096700EF0E3D /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				63911D061EBB3FFA000263CE /* Extensions.swift */,
+			);
+			name = Utilities;
+			sourceTree = "<group>";
+		};
+		63050D4F1EBB0D0D00EF0E3D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				63050D501EBB0D1700EF0E3D /* Emoji.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		630E47A81EBDA97700C82983 /* Love Mom Stickers */ = {
+			isa = PBXGroup;
+			children = (
+				630E47A91EBDA97700C82983 /* Stickers.xcassets */,
+				630E47AB1EBDA97700C82983 /* Info.plist */,
+			);
+			path = "Love Mom Stickers";
+			sourceTree = "<group>";
+		};
+		63911D051EBB3B43000263CE /* View */ = {
+			isa = PBXGroup;
+			children = (
+				63050D5C1EBB387300EF0E3D /* HeaderView.swift */,
+				63050D5D1EBB387300EF0E3D /* HeaderView.xib */,
+				63911D031EBB3B2F000263CE /* HorizontalFloatingHeaderLayout.swift */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		639DDDD11EB7967C009ECE1D = {
+			isa = PBXGroup;
+			children = (
+				639DDDDC1EB7967C009ECE1D /* Frenchie Clone */,
+				63050D341EBAF29300EF0E3D /* Keyboard */,
+				630E47A81EBDA97700C82983 /* Love Mom Stickers */,
+				639DDDDB1EB7967C009ECE1D /* Products */,
+				ED485C6C72A6505320E17D89 /* Pods */,
+				740D805816126972F8E859C7 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		639DDDDB1EB7967C009ECE1D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				639DDDDA1EB7967C009ECE1D /* Frenchie Clone.app */,
+				63050D331EBAF29300EF0E3D /* Keyboard.appex */,
+				630E47A71EBDA97700C82983 /* Love Mom Stickers.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		639DDDDC1EB7967C009ECE1D /* Frenchie Clone */ = {
+			isa = PBXGroup;
+			children = (
+				639DDDF21EB79ADD009ECE1D /* Utilities */,
+				639DDDEF1EB79ABC009ECE1D /* Model */,
+				639DDDF01EB79AC5009ECE1D /* View */,
+				639DDDF11EB79AC9009ECE1D /* Controller */,
+				639DDDDD1EB7967C009ECE1D /* AppDelegate.swift */,
+				639DDDE11EB7967C009ECE1D /* Main.storyboard */,
+				639DDDE41EB7967C009ECE1D /* Assets.xcassets */,
+				639DDDE61EB7967C009ECE1D /* LaunchScreen.storyboard */,
+				639DDDE91EB7967C009ECE1D /* Info.plist */,
+			);
+			path = "Frenchie Clone";
+			sourceTree = "<group>";
+		};
+		639DDDEF1EB79ABC009ECE1D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		639DDDF01EB79AC5009ECE1D /* View */ = {
+			isa = PBXGroup;
+			children = (
+				639DDDF71EB86079009ECE1D /* LabelInstructionNumber.swift */,
+				630E47831EBD7E7B00C82983 /* InstructionPage1.swift */,
+				630E477D1EBD6EAE00C82983 /* InstructionPage1.xib */,
+				630E47851EBD7E8500C82983 /* InstructionPage2.swift */,
+				630E477F1EBD6EBF00C82983 /* InstructionPage2.xib */,
+				630E47ED1EBF114500C82983 /* InstructionPageIMessage.swift */,
+				630E47EF1EBF114B00C82983 /* InstructionPageIMessage.xib */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		639DDDF11EB79AC9009ECE1D /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				639DDDF91EB8638F009ECE1D /* HomeVC.swift */,
+				639DDDF51EB79C26009ECE1D /* InstructionVC.swift */,
+				630E47F11EBF183D00C82983 /* InstructionIMessageVC.swift */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		639DDDF21EB79ADD009ECE1D /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				639DDDF31EB79AEE009ECE1D /* Constants.swift */,
+			);
+			name = Utilities;
+			sourceTree = "<group>";
+		};
+		740D805816126972F8E859C7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D22935C8D3C5BC70112EEDFF /* Pods_Frenchie_Clone.framework */,
+				7C59D6323BD2E7F7763B5409 /* Pods_Keyboard.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		ED485C6C72A6505320E17D89 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1D6AB9FE0E0CA25EDCF31FF9 /* Pods-Frenchie Clone.debug.xcconfig */,
+				3702666DF50BF8ED4588C50B /* Pods-Frenchie Clone.release.xcconfig */,
+				29CE7E463AC49160292F9862 /* Pods-Keyboard.debug.xcconfig */,
+				718D9E51B6FF0B85922F4929 /* Pods-Keyboard.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		63050D321EBAF29300EF0E3D /* Keyboard */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 63050D3D1EBAF29300EF0E3D /* Build configuration list for PBXNativeTarget "Keyboard" */;
+			buildPhases = (
+				0CCDFF7AB3115B75D88620D8 /* [CP] Check Pods Manifest.lock */,
+				63050D2F1EBAF29300EF0E3D /* Sources */,
+				63050D301EBAF29300EF0E3D /* Frameworks */,
+				63050D311EBAF29300EF0E3D /* Resources */,
+				DC259F5127D9F571A22A1C88 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Keyboard;
+			productName = Keyboard;
+			productReference = 63050D331EBAF29300EF0E3D /* Keyboard.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		630E47A61EBDA97700C82983 /* Love Mom Stickers */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 630E47AF1EBDA97700C82983 /* Build configuration list for PBXNativeTarget "Love Mom Stickers" */;
+			buildPhases = (
+				630E47A51EBDA97700C82983 /* Resources */,
+				A050DF87F75302CB1E62EC3F /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Love Mom Stickers";
+			productName = "Love Mom Stickers";
+			productReference = 630E47A71EBDA97700C82983 /* Love Mom Stickers.appex */;
+			productType = "com.apple.product-type.app-extension.messages-sticker-pack";
+		};
+		639DDDD91EB7967C009ECE1D /* Frenchie Clone */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 639DDDEC1EB7967C009ECE1D /* Build configuration list for PBXNativeTarget "Frenchie Clone" */;
+			buildPhases = (
+				4252B03444827CA2BE8A19C8 /* [CP] Check Pods Manifest.lock */,
+				639DDDD61EB7967C009ECE1D /* Sources */,
+				639DDDD71EB7967C009ECE1D /* Frameworks */,
+				639DDDD81EB7967C009ECE1D /* Resources */,
+				63050D3E1EBAF29300EF0E3D /* Embed App Extensions */,
+				560355E57EFF6CA33DB56523 /* [CP] Embed Pods Frameworks */,
+				619C205290AF8D24B902EA07 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				63050D391EBAF29300EF0E3D /* PBXTargetDependency */,
+				630E47AD1EBDA97700C82983 /* PBXTargetDependency */,
+			);
+			name = "Frenchie Clone";
+			productName = "Frenchie Clone";
+			productReference = 639DDDDA1EB7967C009ECE1D /* Frenchie Clone.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		639DDDD21EB7967C009ECE1D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = "Jayven Nhan";
+				TargetAttributes = {
+					63050D321EBAF29300EF0E3D = {
+						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 3V8EPWEYFE;
+						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.NetworkExtensions = {
+								enabled = 0;
+							};
+						};
+					};
+					630E47A61EBDA97700C82983 = {
+						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 3V8EPWEYFE;
+						ProvisioningStyle = Automatic;
+					};
+					639DDDD91EB7967C009ECE1D = {
+						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 3V8EPWEYFE;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 639DDDD51EB7967C009ECE1D /* Build configuration list for PBXProject "Frenchie Clone" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 639DDDD11EB7967C009ECE1D;
+			productRefGroup = 639DDDDB1EB7967C009ECE1D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				639DDDD91EB7967C009ECE1D /* Frenchie Clone */,
+				63050D321EBAF29300EF0E3D /* Keyboard */,
+				630E47A61EBDA97700C82983 /* Love Mom Stickers */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		63050D311EBAF29300EF0E3D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				63050D461EBB07E900EF0E3D /* EmojiCollectionViewCell.xib in Resources */,
+				63050D421EBB00A400EF0E3D /* Assets.xcassets in Resources */,
+				63050D401EBAF3EB00EF0E3D /* KeyboardView.xib in Resources */,
+				63050D5F1EBB387300EF0E3D /* HeaderView.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		630E47A51EBDA97700C82983 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				630E47AA1EBDA97700C82983 /* Stickers.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		639DDDD81EB7967C009ECE1D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				630E47EC1EBDF92400C82983 /* EmojiCollectionViewCell.xib in Resources */,
+				639DDDE81EB7967C009ECE1D /* LaunchScreen.storyboard in Resources */,
+				630E47F01EBF114B00C82983 /* InstructionPageIMessage.xib in Resources */,
+				630E47801EBD6EBF00C82983 /* InstructionPage2.xib in Resources */,
+				630E477E1EBD6EAE00C82983 /* InstructionPage1.xib in Resources */,
+				639DDDE51EB7967C009ECE1D /* Assets.xcassets in Resources */,
+				639DDDE31EB7967C009ECE1D /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0CCDFF7AB3115B75D88620D8 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		4252B03444827CA2BE8A19C8 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		560355E57EFF6CA33DB56523 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Frenchie Clone/Pods-Frenchie Clone-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		619C205290AF8D24B902EA07 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Frenchie Clone/Pods-Frenchie Clone-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DC259F5127D9F571A22A1C88 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Keyboard/Pods-Keyboard-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		63050D2F1EBAF29300EF0E3D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				63911D041EBB3B2F000263CE /* HorizontalFloatingHeaderLayout.swift in Sources */,
+				63050D5E1EBB387300EF0E3D /* HeaderView.swift in Sources */,
+				63050D361EBAF29300EF0E3D /* KeyboardViewController.swift in Sources */,
+				63050D451EBB07E900EF0E3D /* EmojiCollectionViewCell.swift in Sources */,
+				630E47EB1EBDF83800C82983 /* Constants.swift in Sources */,
+				63050D511EBB0D1700EF0E3D /* Emoji.swift in Sources */,
+				63911D071EBB3FFA000263CE /* Extensions.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		639DDDD61EB7967C009ECE1D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				639DDDF61EB79C26009ECE1D /* InstructionVC.swift in Sources */,
+				630E47F21EBF183D00C82983 /* InstructionIMessageVC.swift in Sources */,
+				639DDDFA1EB8638F009ECE1D /* HomeVC.swift in Sources */,
+				639DDDF81EB86079009ECE1D /* LabelInstructionNumber.swift in Sources */,
+				630E47EA1EBDF79200C82983 /* Emoji.swift in Sources */,
+				630E47E91EBDF73A00C82983 /* EmojiCollectionViewCell.swift in Sources */,
+				630E47EE1EBF114500C82983 /* InstructionPageIMessage.swift in Sources */,
+				630E47841EBD7E7B00C82983 /* InstructionPage1.swift in Sources */,
+				639DDDDE1EB7967C009ECE1D /* AppDelegate.swift in Sources */,
+				630E47861EBD7E8500C82983 /* InstructionPage2.swift in Sources */,
+				639DDDF41EB79AEE009ECE1D /* Constants.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		63050D391EBAF29300EF0E3D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 63050D321EBAF29300EF0E3D /* Keyboard */;
+			targetProxy = 63050D381EBAF29300EF0E3D /* PBXContainerItemProxy */;
+		};
+		630E47AD1EBDA97700C82983 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 630E47A61EBDA97700C82983 /* Love Mom Stickers */;
+			targetProxy = 630E47AC1EBDA97700C82983 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		639DDDE11EB7967C009ECE1D /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				639DDDE21EB7967C009ECE1D /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		639DDDE61EB7967C009ECE1D /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				639DDDE71EB7967C009ECE1D /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		63050D3B1EBAF29300EF0E3D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 29CE7E463AC49160292F9862 /* Pods-Keyboard.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3V8EPWEYFE;
+				INFOPLIST_FILE = Keyboard/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.jayvennn.Love-Mom-Stickers.app.keyboard";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		63050D3C1EBAF29300EF0E3D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 718D9E51B6FF0B85922F4929 /* Pods-Keyboard.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3V8EPWEYFE;
+				INFOPLIST_FILE = Keyboard/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.jayvennn.Love-Mom-Stickers.app.keyboard";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		630E47B01EBDA97700C82983 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = 3V8EPWEYFE;
+				INFOPLIST_FILE = "Love Mom Stickers/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.jayvennn.Love-Mom-Stickers.app.Stickers";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		630E47B11EBDA97700C82983 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = 3V8EPWEYFE;
+				INFOPLIST_FILE = "Love Mom Stickers/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.jayvennn.Love-Mom-Stickers.app.Stickers";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		639DDDEA1EB7967C009ECE1D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		639DDDEB1EB7967C009ECE1D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		639DDDED1EB7967C009ECE1D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1D6AB9FE0E0CA25EDCF31FF9 /* Pods-Frenchie Clone.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3V8EPWEYFE;
+				INFOPLIST_FILE = "Frenchie Clone/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.jayvennn.Love-Mom-Stickers.app";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		639DDDEE1EB7967C009ECE1D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3702666DF50BF8ED4588C50B /* Pods-Frenchie Clone.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3V8EPWEYFE;
+				INFOPLIST_FILE = "Frenchie Clone/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.jayvennn.Love-Mom-Stickers.app";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		63050D3D1EBAF29300EF0E3D /* Build configuration list for PBXNativeTarget "Keyboard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				63050D3B1EBAF29300EF0E3D /* Debug */,
+				63050D3C1EBAF29300EF0E3D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		630E47AF1EBDA97700C82983 /* Build configuration list for PBXNativeTarget "Love Mom Stickers" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				630E47B01EBDA97700C82983 /* Debug */,
+				630E47B11EBDA97700C82983 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		639DDDD51EB7967C009ECE1D /* Build configuration list for PBXProject "Frenchie Clone" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				639DDDEA1EB7967C009ECE1D /* Debug */,
+				639DDDEB1EB7967C009ECE1D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		639DDDEC1EB7967C009ECE1D /* Build configuration list for PBXNativeTarget "Frenchie Clone" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				639DDDED1EB7967C009ECE1D /* Debug */,
+				639DDDEE1EB7967C009ECE1D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 639DDDD21EB7967C009ECE1D /* Project object */;
+}

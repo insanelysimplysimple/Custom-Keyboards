@@ -1,0 +1,227 @@
+{
+  "stickers" : [
+    {
+      "filename" : "boy.sticker"
+    },
+    {
+      "filename" : "woman.sticker"
+    },
+    {
+      "filename" : "shaka.sticker"
+    },
+    {
+      "filename" : "gesture.sticker"
+    },
+    {
+      "filename" : "hand-2.sticker"
+    },
+    {
+      "filename" : "shoot.sticker"
+    },
+    {
+      "filename" : "clapping.sticker"
+    },
+    {
+      "filename" : "victory.sticker"
+    },
+    {
+      "filename" : "luck.sticker"
+    },
+    {
+      "filename" : "hand.sticker"
+    },
+    {
+      "filename" : "hand-3.sticker"
+    },
+    {
+      "filename" : "punch.sticker"
+    },
+    {
+      "filename" : "hand-gesture.sticker"
+    },
+    {
+      "filename" : "zoom-in.sticker"
+    },
+    {
+      "filename" : "zoom-out.sticker"
+    },
+    {
+      "filename" : "tap.sticker"
+    },
+    {
+      "filename" : "tap-1.sticker"
+    },
+    {
+      "filename" : "thumbs-up.sticker"
+    },
+    {
+      "filename" : "021-alien.sticker"
+    },
+    {
+      "filename" : "011-emoticon.sticker"
+    },
+    {
+      "filename" : "014-laughing-1.sticker"
+    },
+    {
+      "filename" : "017-in-love.sticker"
+    },
+    {
+      "filename" : "015-laughing.sticker"
+    },
+    {
+      "filename" : "002-emoticon-6.sticker"
+    },
+    {
+      "filename" : "008-emoticon-2.sticker"
+    },
+    {
+      "filename" : "007-people.sticker"
+    },
+    {
+      "filename" : "010-emoticon-1.sticker"
+    },
+    {
+      "filename" : "025-cool.sticker"
+    },
+    {
+      "filename" : "024-ninja.sticker"
+    },
+    {
+      "filename" : "001-emoticon-7.sticker"
+    },
+    {
+      "filename" : "013-nerd.sticker"
+    },
+    {
+      "filename" : "016-happy-1.sticker"
+    },
+    {
+      "filename" : "004-emoticon-4.sticker"
+    },
+    {
+      "filename" : "012-angry.sticker"
+    },
+    {
+      "filename" : "006-people-1.sticker"
+    },
+    {
+      "filename" : "005-emoticon-3.sticker"
+    },
+    {
+      "filename" : "020-rich.sticker"
+    },
+    {
+      "filename" : "018-sad.sticker"
+    },
+    {
+      "filename" : "009-man.sticker"
+    },
+    {
+      "filename" : "003-emoticon-5.sticker"
+    },
+    {
+      "filename" : "019-happy.sticker"
+    },
+    {
+      "filename" : "002-fist.sticker"
+    },
+    {
+      "filename" : "004-power.sticker"
+    },
+    {
+      "filename" : "003-fists.sticker"
+    },
+    {
+      "filename" : "016-teamwork.sticker"
+    },
+    {
+      "filename" : "025-sign-lenguage-c.sticker"
+    },
+    {
+      "filename" : "023-pinch.sticker"
+    },
+    {
+      "filename" : "024-sign-lenguage-o.sticker"
+    },
+    {
+      "filename" : "007-back.sticker"
+    },
+    {
+      "filename" : "006-chili.sticker"
+    },
+    {
+      "filename" : "005-hot-dog.sticker"
+    },
+    {
+      "filename" : "001-drink.sticker"
+    },
+    {
+      "filename" : "002-cup.sticker"
+    },
+    {
+      "filename" : "003-danger.sticker"
+    },
+    {
+      "filename" : "001-raindrop.sticker"
+    },
+    {
+      "filename" : "014-people.sticker"
+    },
+    {
+      "filename" : "013-people-1.sticker"
+    },
+    {
+      "filename" : "008-high-five.sticker"
+    },
+    {
+      "filename" : "011-man-giving-a-flower-to-his-girlfriend-as-love-symbol-in-romantic-posture-on-his-knee.sticker"
+    },
+    {
+      "filename" : "010-man-in-marriage-proposal-position-on-his-knee-offering-a-ring-in-front-of-his-girlfriend.sticker"
+    },
+    {
+      "filename" : "015-slap.sticker"
+    },
+    {
+      "filename" : "021-man-praying-laying-on-his-knees.sticker"
+    },
+    {
+      "filename" : "026-man-doing-push-ups.sticker"
+    },
+    {
+      "filename" : "017-man-exercising-vending-arms-and-knees.sticker"
+    },
+    {
+      "filename" : "009-rugby-player-on-one-knee-with-the-ball-in-a-hand.sticker"
+    },
+    {
+      "filename" : "027-man-going-fast-and-with-force-against-a-door.sticker"
+    },
+    {
+      "filename" : "018-woman-on-her-knees-looking-up.sticker"
+    },
+    {
+      "filename" : "019-man-laying-on-his-back-with-his-knees-on-his-chest.sticker"
+    },
+    {
+      "filename" : "020-man-on-his-knees.sticker"
+    },
+    {
+      "filename" : "012-man-flexing-knees-with-arms-up.sticker"
+    },
+    {
+      "filename" : "022-ninja-shuriken.sticker"
+    },
+    {
+      "filename" : "023-leonard-katana.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "stickers" : [
+    {
+      "filename" : "001-chest.sticker"
+    },
+    {
+      "filename" : "002-money-2.sticker"
+    },
+    {
+      "filename" : "003-gold-ingots-1.sticker"
+    },
+    {
+      "filename" : "004-engagement-ring.sticker"
+    },
+    {
+      "filename" : "005-gold-ingots.sticker"
+    },
+    {
+      "filename" : "006-money-bag.sticker"
+    },
+    {
+      "filename" : "007-piggy-bank-1.sticker"
+    },
+    {
+      "filename" : "008-shield.sticker"
+    },
+    {
+      "filename" : "009-tips.sticker"
+    },
+    {
+      "filename" : "010-dollar.sticker"
+    },
+    {
+      "filename" : "011-coins-1.sticker"
+    },
+    {
+      "filename" : "012-money-1.sticker"
+    },
+    {
+      "filename" : "013-wallet.sticker"
+    },
+    {
+      "filename" : "014-coins.sticker"
+    },
+    {
+      "filename" : "015-exchange.sticker"
+    },
+    {
+      "filename" : "016-search.sticker"
+    },
+    {
+      "filename" : "017-currencies.sticker"
+    },
+    {
+      "filename" : "018-pound-sterling.sticker"
+    },
+    {
+      "filename" : "019-euro.sticker"
+    },
+    {
+      "filename" : "020-money.sticker"
+    },
+    {
+      "filename" : "021-piggy-bank.sticker"
+    },
+    {
+      "filename" : "022-purse.sticker"
+    },
+    {
+      "filename" : "023-diamond-ring.sticker"
+    },
+    {
+      "filename" : "024-safebox.sticker"
+    },
+    {
+      "filename" : "025-yen.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}

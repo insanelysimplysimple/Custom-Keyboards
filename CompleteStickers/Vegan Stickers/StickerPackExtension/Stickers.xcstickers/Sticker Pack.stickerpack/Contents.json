@@ -1,0 +1,176 @@
+{
+  "stickers" : [
+    {
+      "filename" : "001-apple-1.sticker"
+    },
+    {
+      "filename" : "002-tomato.sticker"
+    },
+    {
+      "filename" : "003-orange-1.sticker"
+    },
+    {
+      "filename" : "004-broccoli.sticker"
+    },
+    {
+      "filename" : "005-cucumber.sticker"
+    },
+    {
+      "filename" : "006-watermelon-1.sticker"
+    },
+    {
+      "filename" : "007-pineapple-1.sticker"
+    },
+    {
+      "filename" : "008-carrot-1.sticker"
+    },
+    {
+      "filename" : "009-grape.sticker"
+    },
+    {
+      "filename" : "010-cherry-1.sticker"
+    },
+    {
+      "filename" : "011-corn.sticker"
+    },
+    {
+      "filename" : "012-beetroot.sticker"
+    },
+    {
+      "filename" : "013-avocado-1.sticker"
+    },
+    {
+      "filename" : "014-banana.sticker"
+    },
+    {
+      "filename" : "015-chili.sticker"
+    },
+    {
+      "filename" : "016-pear-1.sticker"
+    },
+    {
+      "filename" : "017-bell-pepper-1.sticker"
+    },
+    {
+      "filename" : "018-strawberry-1.sticker"
+    },
+    {
+      "filename" : "019-aubergine.sticker"
+    },
+    {
+      "filename" : "020-lemon.sticker"
+    },
+    {
+      "filename" : "021-pumpkin.sticker"
+    },
+    {
+      "filename" : "022-potato.sticker"
+    },
+    {
+      "filename" : "023-bell-pepper.sticker"
+    },
+    {
+      "filename" : "024-mushroom.sticker"
+    },
+    {
+      "filename" : "025-bananas.sticker"
+    },
+    {
+      "filename" : "026-coconut.sticker"
+    },
+    {
+      "filename" : "027-kiwi.sticker"
+    },
+    {
+      "filename" : "028-fig.sticker"
+    },
+    {
+      "filename" : "029-avocado.sticker"
+    },
+    {
+      "filename" : "030-strawberry.sticker"
+    },
+    {
+      "filename" : "031-guava.sticker"
+    },
+    {
+      "filename" : "032-apple.sticker"
+    },
+    {
+      "filename" : "033-grapes.sticker"
+    },
+    {
+      "filename" : "034-peach.sticker"
+    },
+    {
+      "filename" : "035-watermelon.sticker"
+    },
+    {
+      "filename" : "036-pear.sticker"
+    },
+    {
+      "filename" : "037-papaya.sticker"
+    },
+    {
+      "filename" : "038-melon.sticker"
+    },
+    {
+      "filename" : "039-pineapple.sticker"
+    },
+    {
+      "filename" : "040-orange.sticker"
+    },
+    {
+      "filename" : "041-mangosteen.sticker"
+    },
+    {
+      "filename" : "042-pitaya.sticker"
+    },
+    {
+      "filename" : "043-cherry.sticker"
+    },
+    {
+      "filename" : "044-orange-juice.sticker"
+    },
+    {
+      "filename" : "045-lemon-juice.sticker"
+    },
+    {
+      "filename" : "046-lime-juice.sticker"
+    },
+    {
+      "filename" : "047-strawberry-juice.sticker"
+    },
+    {
+      "filename" : "048-watermelon-juice.sticker"
+    },
+    {
+      "filename" : "049-kiwi-juice.sticker"
+    },
+    {
+      "filename" : "050-grape-juice.sticker"
+    },
+    {
+      "filename" : "051-carrot.sticker"
+    },
+    {
+      "filename" : "052-pineapple-juice.sticker"
+    },
+    {
+      "filename" : "053-banana-juice.sticker"
+    },
+    {
+      "filename" : "054-cherry-juice.sticker"
+    },
+    {
+      "filename" : "055-melon-juice.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
